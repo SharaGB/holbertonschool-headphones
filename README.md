@@ -25,7 +25,7 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
 
 <p>Here the final result:</p>
 
-<p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220819%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220819T205342Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=028d69796f19a208e9fb70ac38589d87dca3fbca71c950d12dd4652c35dbf36d" alt="" style=""></p>
+<p><img src="https://user-images.githubusercontent.com/90220978/185705760-98f0819e-841b-46c2-acd3-9991be02e994.jpg" alt="" style=""></p>
 
 <p>This webpage has been designed by Nicolas Philippot, UI/UX designer.
 You can find final screens <a href="https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip" title="here" target="_blank">here</a></p>
