@@ -10,9 +10,9 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
 <p>Here the final result:</p>
 
 <p><strong>Desktop:</strong></p>
-<p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/3b5a9f7948a58d58bd43.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230104%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230104T153649Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=076fa4a98e9bb9895954682a33be8ae61945fee515187a5208734f0b7a14e3d3" alt="" loading="lazy" style=""></p>
+<p><img src="https://user-images.githubusercontent.com/90220978/210663101-22044acd-e301-41eb-b5ec-27e13daa9759.gif" alt="" loading="lazy" style=""></p>
 <p><strong>Mobile:</strong></p>
-<p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230104%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230104T153649Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=975f1226b54fc8da8f81fe5bd42381d802be6bb15a944d5f9dff6834a98f0ad4" alt="" loading="lazy" style=""></p>
+<p><img src="https://user-images.githubusercontent.com/90220978/210663158-f9e6d297-06f9-4814-aad5-04462e042fdb.gif" alt="" loading="lazy" style=""></p>
 
   </div>
 </div>
