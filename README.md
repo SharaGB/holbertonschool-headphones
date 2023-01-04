@@ -14,6 +14,5 @@ You will use all HTML/CSS/Accessibility/Responsive design knowledges that you le
 <p><strong>Mobile:</strong></p>
 <p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230104%2Feu-west-3%2Fs3%2Faws4_request&amp;X-Amz-Date=20230104T153649Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=975f1226b54fc8da8f81fe5bd42381d802be6bb15a944d5f9dff6834a98f0ad4" alt="" loading="lazy" style=""></p>
 
-
   </div>
 </div>
